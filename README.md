@@ -9,9 +9,8 @@ PROJETO EM DESENVOLVIMENTO
     site oficial.
 
     Projeto foi inspirado pelo que foi desenvolvido por Joviano, na sua "Maratona
-    Python com Power BI". Não segui exatamente as orientações direcionadas,
-    busquei autonomia na construção do projeto e do código, tendo como base as
-    soluções sugeridas.
+    Python com Power BI". Não segui exatamente as orientações direcionadas, busquei
+    autonomia na construção do projeto e do código, tendo como base as soluções sugeridas.
 
 ## 2 Ferramentas e técnicas utilizadas
 	
@@ -24,9 +23,9 @@ PROJETO EM DESENVOLVIMENTO
 
 	• Adquirir conhecimento em webscraping;
 
-    • aprimorar conhecimento e aumentar compexidade ao utilizar loops;
+    • aprimorar conhecimento e aumentar complexidade ao utilizar loops;
 
-    • adquirir conhecimento para lidar melhor com erros de execução, tornando-os
-    parte integrante da mecânica do código;
+    • lidar melhor com erros de execução, tornando-os parte integrante da mecânica
+    do código;
 	
-	• explorar o uso da solução Sqlite3, integrada ao Python;
+	• explorar o uso da solução Sqlite3, integrada ao Python.
