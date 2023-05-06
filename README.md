@@ -42,7 +42,7 @@
     
 ![fluxogramaAlgoritmo](https://user-images.githubusercontent.com/126031404/236647522-81ca5211-2c4a-4f46-abfa-20b6c3bd4fc6.png)
 
-## 4 Considerações
+## 5 Considerações
 
 	O código possui comentários e explicações sobre seu próprio funcionamento.
 	Necessário esse aprofundamento para que haja completa compreensão do projeto.
