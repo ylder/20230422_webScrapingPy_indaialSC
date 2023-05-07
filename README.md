@@ -39,8 +39,8 @@
 	extrair.
 
 	Feito isto, a lógica do algorítmo é a apresentada no fluxograma a seguir:
-    
-![fluxogramaAlgoritmo](https://user-images.githubusercontent.com/126031404/236647522-81ca5211-2c4a-4f46-abfa-20b6c3bd4fc6.png)
+
+![Imagem6](https://user-images.githubusercontent.com/126031404/236707106-6251938d-0a45-4887-bad8-6f0a76f83651.svg)
 
 ## 5 Considerações
 
