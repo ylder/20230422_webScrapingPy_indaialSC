@@ -40,7 +40,7 @@
 
 	Feito isto, a lógica do algorítmo é a apresentada no fluxograma a seguir:
 
-![Imagem6](https://user-images.githubusercontent.com/126031404/236707106-6251938d-0a45-4887-bad8-6f0a76f83651.svg)
+![Imagem4](https://user-images.githubusercontent.com/126031404/236710700-c6b967fa-c6a4-4778-898d-cadca8bd07e0.png)
 
 ## 5 Considerações
 
