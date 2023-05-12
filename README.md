@@ -20,7 +20,7 @@
 
 ## 3 Objetivos do autor
 
-	• Adquirir conhecimento em webscraping;
+	• Ter 1º contato com webscraping;
 
 	• aprimorar conhecimento e aumentar complexidade ao utilizar loops;
 
@@ -40,7 +40,7 @@
 
 	Feito isto, a lógica do algorítmo é a apresentada no fluxograma a seguir:
 
-![Imagem4](https://user-images.githubusercontent.com/126031404/236710700-c6b967fa-c6a4-4778-898d-cadca8bd07e0.png)
+![Imagem1](https://github.com/ylder/20230422_webScrapingPy_indaialSC/assets/126031404/9a3750fb-03d1-4b6e-beaf-18363749a3de)
 
 ## 5 Considerações
 
