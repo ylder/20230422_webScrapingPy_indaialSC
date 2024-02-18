@@ -3,13 +3,14 @@
 
 ## 1 Descrição do projeto
 
-	Coleta, armazenamento e atualizações incrementais de dados das
+	Sistema de Coleta, armazenamento e atualizações incrementais de dados das
 	proposições de vereadores da prefeitura de Indaial-SC, diretamente de seu
 	site oficial, em um banco de dados sqlite.
 
 	Projeto foi inspirado pelo que foi desenvolvido por Joviano, na sua "Maratona
-	Python com Power BI". Não segui exatamente as orientações direcionadas, busquei
-	autonomia na construção do projeto e do código, tendo como base as soluções sugeridas.
+	Python com Power BI". A estrutura do projeto não seguiu o que foi costruído
+ 	nessa maratona, pois se desenvolveu uma estrutura de sistema, com a modularização
+  	dos códigos.
 
 ## 2 Ferramentas e técnicas utilizadas
 	
@@ -19,6 +20,8 @@
 	SQLite3
 
 ## 3 Objetivos do autor
+
+	• Aplicar programação orientada a objetos;
 
 	• Ter 1º contato com webscraping;
 
@@ -31,12 +34,10 @@
 
 ## 4 Funcionamento do projeto
 
-	O código foi encadeado por meio de funções que são utilizadas simultaneamente
-	uma dentro da outra para realizar o webscraping e armazenamento dos dados.
-
-	Dessa forma, inicialmente estarão sendo criadas as funções e demonstrados seus
-	resultados e funcionamento. Também busco explicar o que exatamente queremos
-	extrair.
+	O projeto foi construído de maneira modularizada, com arquivos (e classes)
+ 	que são responsáveis pelas 3 principais atividades para executar o objetivo
+  	do projeto: construção e conexão com banco de dados, WebScraping dos dados
+   	do site da cidade e ingestão dos dados no banco.
 
 	Feito isto, a lógica do algorítmo é a apresentada no fluxograma a seguir:
 
