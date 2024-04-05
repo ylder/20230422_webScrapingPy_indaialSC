@@ -43,8 +43,15 @@
 
 ![Imagem1](https://github.com/ylder/20230422_webScrapingPy_indaialSC/assets/126031404/9a3750fb-03d1-4b6e-beaf-18363749a3de)
 
-	O arquivo 'main.py' ativa a execução do algoritmo mencionado, sendo necessário
-	informar o período desejado em anos.
+	Para poder executar o código com sucesso, é necessário configurar o arquivo
+	'src/.env'. Nele contém 3 variáveis:
+		
+		USER_AGENT = 'Seu User-Agent' (Seu User-Agent do seu navegador)
+		BASE_DADOS = 'SeuBancoDados_SQLite3.db' (Nome do banco de dados)
+		TABELA_PROJETO = 'sua_tabela' (Nome da tabela a armezar os dados)
+
+	O arquivo 'src/main.py' ativa a execução do algoritmo mencionado, sendo
+	necessário informar o período desejado em anos.
 
 ## 5 Considerações
 
